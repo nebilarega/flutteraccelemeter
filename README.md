@@ -1,6 +1,11 @@
 # gyro_acc_test
 
-A new Flutter project.
+This project contains the code to access the accelerometer and gyro of
+an android phone with bluetooth connectivity
+
+# Bluetooth Concerns
+
+before using the bluetooth, you must first turn on location
 
 ## Getting Started
 
